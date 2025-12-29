@@ -15,7 +15,7 @@
    <br />
    <span style="color:red">OS: </span><span>Kubuntu 24.04 LTS</span><br>
    <span style="color:#dd2e44;">Host: </span><span>Inspiron 15 3520</span><br>
-   <span style="color: ">MainProject: </span><span>LuminOS</span><br>
+   <span style="color: ">WorkingOn: </span><span>LuminOS</span><br>
    <span style="color: ">Uptime: </span><span>13 years</span><br>
    <span style="color: ">Resolution: </span><span>Astigmatism</span><br>
    <span style="color: ">Memory: </span><span>Inexistent/Forgetful</span><br>
