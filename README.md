@@ -13,6 +13,8 @@
     
    </div>
    <br />
+   <b>ray@github</b><br>
+   <b>----------------------------------------------------------------</b><br>
    <b>OS</b>: <span>Kubuntu 24.04 LTS</span><br>
    <b>Host</b>: <span>Inspiron 15 3520</span><br>
    <b>WorkingOn</b>: <span>LuminOS</span><br>
