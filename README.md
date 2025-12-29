@@ -13,9 +13,13 @@
     
    </div>
    <br />
-   <p>Almost all my social media: NyanRay64/NixxLTE</p>
-   <br />
-   <p>My main project: <a href="https://github.com/nixxlte/LuminOS">LuminOS</a></p>
-   <p>Doing random stuff :p</p>
+   <span style="color:red">OS: </span><span>Kubuntu 24.04 LTS</span><br>
+   <span style="color:#dd2e44;">Host: </span><span>Inspiron 15 3520</span><br>
+   <span style="color: ">MainProject: </span><span>LuminOS</span><br>
+   <span style="color: ">Uptime: </span><span>13 years</span><br>
+   <span style="color: ">Resolution: </span><span>Astigmatism</span><br>
+   <span style="color: ">Memory: </span><span>Inexistent/Forgetful</span><br>
+   <span style="color: ">Profession: </span><span>Student/Programmer/Musician</span><br>
+   <span style="color: ">Discord: </span><span>nyanray64</span><br>
   </div>
 </div>
