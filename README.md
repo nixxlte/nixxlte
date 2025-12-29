@@ -8,18 +8,18 @@
      <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UC2DxjCJy-P8aa9fWNcQUaTA?style=for-the-badge&logo=youtube">
     </a>
     <a href="https://nyannix.is-a.dev">
-     <img alt="Static Badge" src="https://img.shields.io/badge/my-website-red?style=for-the-badge&logo=github">
+     <img alt="Static Badge" src="https://img.shields.io/badge/my-website-white?style=for-the-badge&logo=github">
     </a> <br />
     
    </div>
    <br />
-   <span style="color:red">OS: </span><span>Kubuntu 24.04 LTS</span><br>
-   <span style="color:#dd2e44;">Host: </span><span>Inspiron 15 3520</span><br>
-   <span style="color: ">WorkingOn: </span><span>LuminOS</span><br>
-   <span style="color: ">Uptime: </span><span>13 years</span><br>
-   <span style="color: ">Resolution: </span><span>Astigmatism</span><br>
-   <span style="color: ">Memory: </span><span>Inexistent/Forgetful</span><br>
-   <span style="color: ">Profession: </span><span>Student/Programmer/Musician</span><br>
-   <span style="color: ">Discord: </span><span>nyanray64</span><br>
+   <b>OS</b>: <span>Kubuntu 24.04 LTS</span><br>
+   <b>Host</b>: <span>Inspiron 15 3520</span><br>
+   <b>WorkingOn</b>: <span>LuminOS</span><br>
+   <b>Uptime</b>: <span>13 years</span><br>
+   <b>Resolution</b>: <span>Astigmatism</span><br>
+   <b>Memory</b>: <span>Inexistent/Forgetful</span><br>
+   <b>Profession</b>: <span>Student/Programmer/Musician</span><br>
+   <b>Discord</b>: <span>nyanray64</span><br>
   </div>
 </div>
