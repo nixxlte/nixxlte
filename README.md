@@ -20,7 +20,7 @@
    <b>WorkingOn</b>: <span>LuminOS</span><br>
    <b>Uptime</b>: <span>13 years</span><br>
    <b>Resolution</b>: <span>Astigmatism</span><br>
-   <b>Daing</b>: <span>Cute Volt</span><br>
+   <b>I love</b>: <span>Cute Volt >:3</span><br>
    <b>Memory</b>: <span>Inexistent/Forgetful</span><br>
    <b>Profession</b>: <span>Student/Programmer/Musician</span><br>
    <b>Discord</b>: <span>nyanray64</span><br>
