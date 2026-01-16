@@ -15,10 +15,10 @@
    <br />
    <b>Rayzito@Github</b><br>
    <b>----------------------------------------------------------------</b><br>
-   <b>OS</b>: <span>Kubuntu 24.04 LTS</span><br>
+   <b>OS</b>: <span>Windows 11 25h02</span><br>
    <b>Host</b>: <span>Inspiron 15 3520</span><br>
    <b>WorkingOn</b>: <span>LuminOS</span><br>
-   <b>Uptime</b>: <span>13 years</span><br>
+   <b>Uptime</b>: <span>13 years, 8 months</span><br>
    <b>Resolution</b>: <span>Astigmatism</span><br>
    <b>I love</b>: <span>Cute Volt >:3</span><br>
    <b>Memory</b>: <span>Inexistent/Forgetful</span><br>
