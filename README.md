@@ -15,7 +15,7 @@
    <br />
    <b>Rayzito@Github</b><br>
    <b>----------------------------------------------------------------</b><br>
-   <b>OS</b>: <span>Windows 11 25h2</span><br>
+   <b>OS</b>: <span>Manjaro Linux x86_64</span><br>
    <b>Host</b>: <span>Inspiron 15 3520</span><br>
    <b>WorkingOn</b>: <span>LuminOS</span><br>
    <b>Uptime</b>: <span>13 years, 9 months</span><br>
