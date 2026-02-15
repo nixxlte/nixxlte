@@ -24,7 +24,6 @@
    <b>Memory</b>: <span>Inexistent/Forgetful</span><br>
    <b>Profession</b>: <span>Student/Programmer/Musician</span><br>
    <b>Discord</b>: <span>nyanray64</span><br>
-<b>Off for a day</b><br>
    <p>NyanRay_@GitRay64:<b>~$</b> fastfetch <b>_</b></p>
   </div>
 </div>
