@@ -1,7 +1,7 @@
 <div align="center">
   <!-- <a href="https://git.io/typing-svg"> -->
   <div align="left">
-   <img align="left" width="350" height="350" alt="image" src="https://github.com/user-attachments/assets/f1369cf5-5139-47d6-8675-bb31462c6da7" />
+   <img align="left" width="350" height="350" alt="image" src="https://drive.google.com/file/d/15CYsGjZ0PTVB-9weAFHV-ipcy-ymZodw/view" />
     <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=600&duration=2000&pause=1500&color=FFFFFF&background=1e242a&center=true&vCenter=true&random=false&width=420&lines=Hewoo!+=3;I+am+Ray;Nyan+Ray+64+UwU;Check+out+my+website;https%3A%2F%2Fnyannix.is-a.dev" alt="Typing SVG" />
    <div>
     <a href="https://www.youtube.com/@nyanray64">
@@ -23,7 +23,7 @@
    <b>I love</b>: <span>Cute Volt >:3c</span><br>
    <b>Memory</b>: <span>Inexistent/Forgetful</span><br>
    <b>Profession</b>: <span>Student/Programmer/Musician</span><br>
-   <b>Discord</b>: <span>nyanray64</span><br>
+   <b>@Discord</b>: <span>YoNyan64</span><br>
    <p>NyanRay_@GitRay64:<b>~$</b> fastfetch <b>_</b></p>
   </div>
 </div>
