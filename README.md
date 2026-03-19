@@ -15,15 +15,20 @@
    <br />
    <b>Rayzito@Github</b><br>
    <b>----------------------------------------------------------------</b><br>
-   <b>OS</b>: <span>Windows 11 25h2</span><br>
+   <b>OS</b>: <span>ZorinOS 18</span><br>
    <b>Host</b>: <span>Inspiron 15 3520 (broken cooler)</span><br>
+   <b>CPU</b>: <span>Intel Core i5 1135G7</span><br>
+   <b>RAM</b>: <span>16GB</span><br>
+   <b>----------------------------------------------------------------</b><br>
+   <b>OS</b>: <span>MacOS 10.13</span><br>
+   <b>Host</b>: <span>Lenovo Ideapad Z470 (bomb)</span><br>
    <b>WorkingOn</b>: <span>LuminOS</span><br>
    <b>Uptime</b>: <span>13 years, 10 months</span><br>
    <b>Resolution</b>: <span>Astigmatism</span><br>
    <b>I love</b>: <span>Cute Volt >:3c</span><br>
    <b>Memory</b>: <span>Inexistent/Forgetful</span><br>
    <b>Profession</b>: <span>Student/Programmer/Musician</span><br>
-   <b>@Discord</b>: <span>YoNyan64</span><br>
+   <b>@Discord</b>: <span>imNyan.T64</span><br>
    <p>NyanRay_@GitRay64:<b>~$</b> fastfetch <b>_</b></p>
   </div>
 </div>
