@@ -6,7 +6,7 @@
   <div align="left">
     <img align="left" width="450" height="450" alt="image" src="https://drive.google.com/uc?export=view&id=15CYsGjZ0PTVB-9weAFHV-ipcy-ymZodw" />
 
-   <b>Rayzito@Github</b><br>
+   <b>Nyan@Github</b><br>
    <b>----------------------------------------------------------------</b><br>
    <b>OS</b>: <span>ZorinOS 18</span><br>
    <b>Host</b>: <span>Inspiron 15 3520 (broken cooler)</span><br>
