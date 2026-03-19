@@ -21,7 +21,9 @@
    <b>RAM</b>: <span>16GB</span><br>
    <b>----------------------------------------------------------------</b><br>
    <b>OS</b>: <span>MacOS 10.13</span><br>
-   <b>Host</b>: <span>Lenovo Ideapad Z470 (bomb)</span><br>
+   <b>Host</b>: <span>Lenovo Ideapad Z470 (full working hackintosh :3)</span><br>
+   <b>CPU</b>: <span>Intel Core i5 2410M</span><br>
+   <b>RAM</b>: <span>4GB</span><br>
    <b>WorkingOn</b>: <span>LuminOS</span><br>
    <b>Uptime</b>: <span>13 years, 10 months</span><br>
    <b>Resolution</b>: <span>Astigmatism</span><br>
