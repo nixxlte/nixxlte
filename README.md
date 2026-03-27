@@ -18,7 +18,7 @@
    <b>CPU</b>: <span>Intel Core i5 2410M</span><br>
    <b>RAM</b>: <span>4GB</span><br>
    <b>WorkingOn</b>: <span>LuminOS</span><br>
-   <b>Uptime</b>: <span>13 years, 10 months</span><br>
+   <b>Uptime</b>: <span>13 years, 11 months</span><br>
    <b>Resolution</b>: <span>Astigmatism</span><br>
    <b>I love</b>: <span>Cute Volt >:3c</span><br>
    <b>Memory</b>: <span>Inexistent/Forgetful</span><br>
