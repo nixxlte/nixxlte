@@ -24,6 +24,6 @@
    <b>Memory</b>: <span>Inexistent/Forgetful</span><br>
    <b>Profession</b>: <span>Student/Programmer/Musician</span><br>
    <b>@Discord</b>: <span>imNyan.T64</span><br>
-   <p>NyanUwU_@GitNyan64:<b>~$</b> fastfetch <b>_</b></p>
+   <p>NyanUwU_@GitNix64:<b>~$</b> fastfetch <b>_</b></p>
   </div>
 </div>
