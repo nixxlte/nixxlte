@@ -13,7 +13,7 @@
    <b>CPU</b>: <span>Intel Core i5 1135G7</span><br>
    <b>RAM</b>: <span>16GB</span><br>
    <b>----------------------------------------------------------------</b><br>
-   <b>OS</b>: <span>Windows 11</span><br>
+   <b>OS</b>: <span>Windows 10 (vista themed)</span><br>
    <b>Host</b>: <span>Pavilion 14 n050br (Hinge Problem PC btw)</span><br>
    <b>CPU</b>: <span>Intel Core i7 4500U</span><br>
    <b>RAM</b>: <span>8GB</span><br>
