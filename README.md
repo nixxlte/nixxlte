@@ -9,7 +9,7 @@
    <b>Nyan@Github</b><br>
    <b>----------------------------------------------------------------</b><br>
    <b>OS</b>: <span>Ubuntu 26.04 LTS</span><br>
-   <b>Host</b>: <span>Inspiron 15 3520 (broken cooler)</span><br>
+   <b>Host</b>: <span>Inspiron 15 3520 (Main :P)</span><br>
    <b>CPU</b>: <span>Intel Core i5 1135G7</span><br>
    <b>RAM</b>: <span>16GB</span><br>
    <b>----------------------------------------------------------------</b><br>
