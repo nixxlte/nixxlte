@@ -23,7 +23,7 @@
    <b>I love</b>: <span>Cute @K @J >:3c</span><br>
    <b>Memory</b>: <span>Inexistent/Forgetful</span><br>
    <b>Profession</b>: <span>Student/Programmer/Musician</span><br>
-   <b>@Discord</b>: <span>NixxLTE</span><br>
+   <b>@Discord and @Telegram</b>: <span>NixxLTE</span><br>
    <p>NyanUwU_@GitNix64:<b>~$</b> fastfetch <b>_</b></p>
   </div>
 </div>
