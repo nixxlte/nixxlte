@@ -8,15 +8,15 @@
 
    <b>Nyan@Github</b><br>
    <b>----------------------------------------------------------------</b><br>
-   <b>OS</b>: <span>Ubuntu 26.04 LTS</span><br>
+   <b>OS</b>: <span>Nobara linux</span><br>
    <b>Host</b>: <span>Inspiron 15 3520 (Main :P)</span><br>
    <b>CPU</b>: <span>Intel Core i5 1135G7</span><br>
    <b>RAM</b>: <span>16GB</span><br>
    <b>----------------------------------------------------------------</b><br>
-   <b>OS</b>: <span>Windows 11 (tiny11)</span><br>
-   <b>Host</b>: <span>Pavilion 14 n050br (Hinge Problem PC btw)</span><br>
-   <b>CPU</b>: <span>Intel Core i7 4500U</span><br>
-   <b>RAM</b>: <span>8GB</span><br>
+   <b>OS</b>: <span>Windows vista</span><br>
+   <b>Host</b>: <span>Ideapad Z470</span><br>
+   <b>CPU</b>: <span>Intel Core i5 2410M</span><br>
+   <b>RAM</b>: <span>4GB</span><br>
    <b>Learning</b>: <span>C/C++</span><br>
    <b>Uptime</b>: <span>14 years</span><br>
    <b>Resolution</b>: <span>Astigmatism</span><br>
