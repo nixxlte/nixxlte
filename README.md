@@ -8,23 +8,23 @@
 
    <b>Nyan@Github</b><br>
    <b>----------------------------------------------------------------</b><br>
-   <b>OS</b>: <span>Nobara linux</span><br>
+   <b>OS</b>: <span>Windows 11</span><br>
    <b>Host</b>: <span>Inspiron 15 3520 (Main :P)</span><br>
    <b>CPU</b>: <span>Intel Core i5 1135G7</span><br>
-   <b>RAM</b>: <span>16GB</span><br>
+   <b>RAM</b>: <span>24GB</span><br>
    <b>----------------------------------------------------------------</b><br>
-   <b>OS</b>: <span>Windows vista</span><br>
-   <b>Host</b>: <span>Ideapad Z470</span><br>
-   <b>CPU</b>: <span>Intel Core i5 2410M</span><br>
-   <b>RAM</b>: <span>4GB</span><br>
+   <b>OS</b>: <span>MacOS Big sur</span><br>
+   <b>Host</b>: <span>Pavilion 14 n050</span><br>
+   <b>CPU</b>: <span>Intel Core i7 4500U</span><br>
+   <b>RAM</b>: <span>8GB</span><br>
    <b>Learning</b>: <span>C/C++</span><br>
    <b>Uptime</b>: <span>14 years</span><br>
    <b>Resolution</b>: <span>Astigmatism</span><br>
-   <b>I love</b>: <span>Cute @K @J >:3c</span><br>
+   <b>I love</b>: <span>Cute @J >:3c</span><br>
    <b>Memory</b>: <span>Inexistent/Forgetful</span><br>
-   <b>Profession</b>: <span>Student/Programmer/Musician</span><br>
+   <b>Profession</b>: <span>Student/Programmer</span><br>
    <b>@Discord and @Telegram</b>: <span>NixxLTE</span><br>
    <p>NyanUwU_@GitNix64:<b>~$</b> fastfetch <b>_</b></p>
-   <b>Off cause i exploded my wrist.</b>
+   <b>Off cause im REALLY sick.</b>
   </div>
 </div>
