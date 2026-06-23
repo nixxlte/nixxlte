@@ -7,12 +7,12 @@
     <img align="left" width="420" height="420" alt="image" src="https://drive.google.com/uc?export=view&id=15CYsGjZ0PTVB-9weAFHV-ipcy-ymZodw" />
 
    <b>Nyan@Github</b><br>
-   <b>----------------------------------------------------------------</b><br>
+   <b>-------------------------------------------------------------</b><br>
    <b>OS</b>: <span>Windows 11</span><br>
    <b>Host</b>: <span>Inspiron 15 3520 (Main :P)</span><br>
    <b>CPU</b>: <span>Intel Core i5 1135G7</span><br>
    <b>RAM</b>: <span>24GB</span><br>
-   <b>----------------------------------------------------------------</b><br>
+   <b>-------------------------------------------------------------</b><br>
    <b>OS</b>: <span>MacOS Big sur</span><br>
    <b>Host</b>: <span>Pavilion 14 n050</span><br>
    <b>CPU</b>: <span>Intel Core i7 4500U</span><br>
