@@ -25,6 +25,5 @@
    <b>Profession</b>: <span>Student/Programmer</span><br>
    <b>@Discord and @Telegram</b>: <span>NixxLTE</span><br>
    <p>NyanUwU_@GitNix64:<b>~$</b> fastfetch <b>_</b></p>
-   <b>Off cause im REALLY sick.</b>
   </div>
 </div>
