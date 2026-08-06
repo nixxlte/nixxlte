@@ -22,7 +22,7 @@
    <b>Resolution</b>: <span>Astigmatism</span><br>
    <b>Memory</b>: <span>Inexistent/Forgetful</span><br>
    <b>Profession</b>: <span>Student/Programmer</span><br>
-   <b>@Threads, @Youtube, @Instagram and @Telegram</b>: <span>NixxLTE</span><br>
+   <b>@Threads, @Youtube, @Instagram and @Telegram</b>: <span>NixPanqueca</span><br>
    <b>@Discord</b>: <span>RushPanqueca</span><br>
    <p>PanquecaUwU_@Github64:<b>~$</b> fastfetch <b>_</b></p>
   </div>
