@@ -8,12 +8,12 @@
 
    <b>Nyan@Github</b><br>
    <b>-------------------------------------------------------------</b><br>
-   <b>OS</b>: <span>Windows 11</span><br>
+   <b>OS</b>: <span>Windows 10</span><br>
    <b>Host</b>: <span>Inspiron 15 3520 (Main :P)</span><br>
    <b>CPU</b>: <span>Intel Core i5 1135G7</span><br>
    <b>RAM</b>: <span>24GB</span><br>
    <b>-------------------------------------------------------------</b><br>
-   <b>OS</b>: <span>MacOS Big sur</span><br>
+   <b>OS</b>: <span>Linux Mint</span><br>
    <b>Host</b>: <span>Pavilion 14 n050</span><br>
    <b>CPU</b>: <span>Intel Core i7 4500U</span><br>
    <b>RAM</b>: <span>8GB</span><br>
